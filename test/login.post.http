@@ -1,0 +1,6 @@
+post http://localhost:8081/login
+Content-Type: application/json
+
+{
+    "user_id": "user-001"
+}

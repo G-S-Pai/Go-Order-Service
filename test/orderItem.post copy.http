@@ -1,0 +1,9 @@
+post http://localhost:8081/api/v1/orders/item
+Content-Type: application/json
+
+{
+    "productId": "product-003",
+    "productName": "juice",
+    "quantity": 8,
+    "price": 90
+}
