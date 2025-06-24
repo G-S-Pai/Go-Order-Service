@@ -1,4 +1,4 @@
-post http://localhost:8081/login
+post https://go-order-service-220652406095.us-central1.run.app/login
 Content-Type: application/json
 
 {
